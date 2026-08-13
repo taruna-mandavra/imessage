@@ -49,8 +49,8 @@ IMAGEKIT_PRIVATE_KEY=<your_imagekit_private_key>
 
 FRONTEND_URL=<your_frontend_url>
 
-**Frontend(/frontend)
-**
+**Frontend(/frontend)**
+
 VITE_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key>
 
 
