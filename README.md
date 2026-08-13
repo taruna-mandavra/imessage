@@ -8,9 +8,11 @@
 
 ## 📸 Screenshots
 
-| Login Page | Chat View |
+| Login Page |
 
 ![Auth](./Screenshots/auth.png)
+
+| Chat View |
 
 ![Chat](./Screenshots/chat-demo.png)
 
@@ -31,7 +33,7 @@
 
 🔧 Environment Variables
 
-Backend(/backend)
+**Backend(/backend)**
 
 PORT=<your_port>
 
@@ -47,29 +49,29 @@ IMAGEKIT_PRIVATE_KEY=<your_imagekit_private_key>
 
 FRONTEND_URL=<your_frontend_url>
 
-Frontend(/frontend)
-
+**Frontend(/frontend)
+**
 VITE_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key>
 
 
 ## 🛠️ Tech Stack
 
 Frontend
-   React
-   Tailwind CSS
-   Hero UI
-   Zustand
-   Socket.io Client
+  - React
+  - Tailwind CSS
+  - Hero UI
+  - Zustand
+  - Socket.io Client
    
 Backend
-   Node.js
-   Express.js
-   MongoDB
-   Socket.io
-   Clerk
-   ImageKit
+  - Node.js
+  - Express.js
+  - MongoDB
+  - Socket.io
+  - Clerk
+  - ImageKit
    
 Deployment
-   Frontend: Render
-   Backend: Render
-   Database: MongoDB Atlas  
+  - Frontend: Render
+  - Backend: Render
+  - Database: MongoDB Atlas  
